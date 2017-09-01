@@ -1,0 +1,6 @@
+drink, roast, quantity, extras
+Coffee 1, Roast 1, 5, milk
+Coffee 2, Roast 3, 4, null
+Coffee 2, Roast 3, 3, milk
+Coffee 2, Roast 1, 2, soy
+Coffee 3, Roast 2, 1, null

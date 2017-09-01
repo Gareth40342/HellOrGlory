@@ -1,0 +1,6 @@
+c:\users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfo\bin\Debug\HOGInfo.exe.config
+c:\users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfo\bin\Debug\HOGInfo.exe
+c:\users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfo\bin\Debug\HOGInfo.pdb
+c:\users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfo\obj\Debug\HOGInfo.csprojResolveAssemblyReference.cache
+c:\users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfo\obj\Debug\HOGInfo.exe
+c:\users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfo\obj\Debug\HOGInfo.pdb

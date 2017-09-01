@@ -1,0 +1,15 @@
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\HOGInfoUnitTests.dll
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\HOGInfoUnitTests.pdb
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\HOGInfo.exe
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\HOGInfo.pdb
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\HOGInfo.exe.config
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\obj\Debug\HOGInfoUnitTests.csprojResolveAssemblyReference.cache
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\obj\Debug\HOGInfoUnitTests.dll
+c:\Users\garet\documents\visual studio 2017\Projects\HOGInfo\HOGInfoUnitTests\obj\Debug\HOGInfoUnitTests.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOGInfo", "HOGInfo\HOGInfo.csproj", "{C097E454-AD32-45BE-A98E-5A8B1E577278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOGInfoUnitTests", "HOGInfoUnitTests\HOGInfoUnitTests.csproj", "{13628C3E-3EB8-43B8-814E-CCFEF82F39BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C097E454-AD32-45BE-A98E-5A8B1E577278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C097E454-AD32-45BE-A98E-5A8B1E577278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C097E454-AD32-45BE-A98E-5A8B1E577278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C097E454-AD32-45BE-A98E-5A8B1E577278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13628C3E-3EB8-43B8-814E-CCFEF82F39BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13628C3E-3EB8-43B8-814E-CCFEF82F39BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13628C3E-3EB8-43B8-814E-CCFEF82F39BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13628C3E-3EB8-43B8-814E-CCFEF82F39BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
